@@ -1,0 +1,12 @@
+{
+    "rootElement": {
+        "name": "Файл"
+    },
+    "elementsToExclude": [
+        {"name":"ВерсПрог"},
+        {"name":"ВерсФорм"},
+        {"name":"ИдФайл"},
+        {"name":"КНД"},
+        {"name":"ДатаДок"}
+    ]
+}
